@@ -127,7 +127,6 @@ class Application:
 
         self.baseDados = []
         self.aux = []
-        self.temQuatroLetras = False
 
         for i in self.nomes:
             self.aux.append(i[-1])
